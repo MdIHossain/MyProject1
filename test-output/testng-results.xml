@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="5" total="8" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-29T23:04:51 EDT" name="Default suite" finished-at="2022-03-29T23:05:15 EDT" duration-ms="23810">
+    <groups>
+    </groups>
+    <test started-at="2022-03-29T23:04:51 EDT" name="Default test" finished-at="2022-03-29T23:05:15 EDT" duration-ms="23810">
+      <class name="homeWorkSelenium.HW_16_03172021">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:homeWorkSelenium.HW_16_03172021@5a56cdac]" started-at="2022-03-29T23:04:51 EDT" name="setUp" finished-at="2022-03-29T23:04:57 EDT" duration-ms="6003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="titleTest()[pri:5, instance:homeWorkSelenium.HW_16_03172021@5a56cdac]" started-at="2022-03-29T23:04:57 EDT" name="titleTest" finished-at="2022-03-29T23:04:57 EDT" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleTest -->
+        <test-method signature="getTextTest()[pri:6, instance:homeWorkSelenium.HW_16_03172021@5a56cdac]" started-at="2022-03-29T23:04:57 EDT" name="getTextTest" finished-at="2022-03-29T23:04:57 EDT" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTextTest -->
+        <test-method signature="userIdTest()[pri:8, instance:homeWorkSelenium.HW_16_03172021@5a56cdac]" started-at="2022-03-29T23:04:57 EDT" name="userIdTest" finished-at="2022-03-29T23:05:15 EDT" duration-ms="17461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userIdTest -->
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:homeWorkSelenium.HW_16_03172021@5a56cdac]" started-at="2022-03-29T23:05:15 EDT" name="tearUp" finished-at="2022-03-29T23:05:15 EDT" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+      </class> <!-- homeWorkSelenium.HW_16_03172021 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
